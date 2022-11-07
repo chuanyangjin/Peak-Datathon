@@ -1,4 +1,6 @@
 # Peak-Datathon
+Team Members: Charlie Chen, Chuanyang Jin, Gavin Yang, Hongyi Zheng (alphabetical order)
+
 This is our team project for NYU x Peak Datathon 2022. Check our slides for a non-technical illustration and our notebook for implementation details!
 
 
