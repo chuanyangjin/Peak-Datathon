@@ -1,7 +1,7 @@
 # Peak-Datathon
 Team Members: Charlie Chen, [Chuanyang Jin](https://github.com/chuanyangjin), [Gavin Yang](https://github.com/redagavin), [Hongyi Zheng](https://github.com/Hiroki39) (alphabetical order)
 
-This is our team project for NYU x Peak Datathon 2022. Check our slides for a non-technical illustration and our notebook for implementation details!
+This is our project for NYU x Peak Datathon 2022. Take a look at our [demonstration slides](https://docs.google.com/presentation/d/1yYLTLT7k1QF3SPSHfofNoDNlBa9YzYe4nCLgU6FCogE/edit#slide=id.p) and [notebook](https://github.com/chuanyangjin/Peak-Datathon/blob/master/Peak%20Datathon%20Notebook.ipynb)!
 
 
 ### Problem Statement
